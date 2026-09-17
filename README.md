@@ -73,7 +73,6 @@ Additional calculated fields were created, including:
 
 * Profit
 * Profit Margin
-* Order Value
 * Month
 * Customer Name
 * City
