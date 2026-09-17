@@ -508,10 +508,8 @@ The workbook includes:
 * Interactive dashboard
 
 
-# 👩‍💻 Author
+#  Author
 
 **Aleeza Habib**
-
----
 
 ⭐ If you find this project useful, feel free to explore the workbook and analysis files in this repository.
