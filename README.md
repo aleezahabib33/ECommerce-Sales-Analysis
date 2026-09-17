@@ -426,7 +426,7 @@ The analysis provides several useful observations from the dataset:
 These insights demonstrate how Excel can be used to turn raw transactional data into information that can support business analysis and decision-making.
 
 
-# 📊 Dashboard
+#  Dashboard
 
 The final dashboard provides a consolidated view of the e-commerce business performance.
 
